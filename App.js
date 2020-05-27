@@ -6,7 +6,7 @@ import Registration from './pages/registration'
 
 export default function App() {
   return (
-    <Registration></Registration> 
+    <Registration></Registration>
   );
 }
 
