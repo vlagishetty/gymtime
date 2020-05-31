@@ -79,11 +79,11 @@ const styles = StyleSheet.create({
     flex: 1,
     justifyContent: 'center',
     alignItems: 'center',
-    backgroundColor: '#051E34',
+    backgroundColor: '#11293F',
   },
   inputContainer: {
-      borderBottomColor: '#F5FCFF',
-      backgroundColor: '#FFFFFF',
+      borderBottomColor: '#F6F7F9',
+      backgroundColor: '#F6F7F9',
       borderRadius:0,
       borderBottomWidth: 1,
       width:250,
@@ -95,7 +95,8 @@ const styles = StyleSheet.create({
   inputs:{
       height:45,
       marginLeft:16,
-      borderBottomColor: '#FFFFFF',
+      backgroundColor:'#F6F7F9',
+      borderBottomColor: '#F6F7F9',
       flex:1,
   },
   inputIcon:{
@@ -111,16 +112,16 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     marginBottom:20,
     width:250,
-    borderRadius:30,
+    borderRadius:0,
   },
   loginButton: {
-    backgroundColor: "#F96302",
+    backgroundColor: '#F96302',
   },
   loginText: {
-    color: 'white',
+    color: '#F6F7F9',
   },
   regstyle: {
-      color: '#FFFFFF',
+      color: '#F6F7F9',
   }
 });
  
